@@ -32,14 +32,6 @@
       "university": "Yeungnam University",
       "major": "Computer Engineering"
     },
-    "specialization": [
-      "Backend Development",
-      "Node.js",
-      "TypeScript",
-      "MERN Stack",
-      "AI Integration"
-    ],
-    "careerGoal": "Software Engineer in South Korea"
   }
 }
 ```
