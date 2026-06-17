@@ -19,9 +19,8 @@
 }
 ```
 
-
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,mongodb,java,python,cpp,html,css,bootstrap,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,mongodb,java,python,cpp,html,css,bootstrap,git,github,vscode,postman,figma" />
 </p>
