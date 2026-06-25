@@ -1,4 +1,5 @@
 
+
 ## About Me:
 
 ```json
@@ -22,11 +23,27 @@
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,mongodb,java,python,cpp,html,css,bootstrap,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,mongodb,mysql,postgres,prisma,java,spring,python,cpp,html,css,bootstrap,git,github,vscode,postman,figma" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="43" height="43"/> -->
 </p>
 
-## Languages and Tools
+<!-- 
+1 ) express    → backend framework             / “beckend nixam qo'shiber” → shunda men express va springni aytganman.
+2 ) mysql      → relational database           / “endi database qo'shibber” → shunda mysql va postgresqlni qo‘shganman.
+3 ) postgresql → advanced relational database  / "endi database qo'shibber" → shu yerda postgresql ham qo‘shilgan.
+4 ) prisma     → schema/ORM tool               / “schema domel xam qo'sh” → shunda prismani qo‘shganman.
+5 ) spring     → Java backend framework        / "beckend nixam qo'shiber" → shu yerda spring ham qo‘shilgan.
+-->
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,mongodb,mysql,java,python,cpp,html,css,bootstrap,git,github,vscode,postman,figma" />
-</p>
+
+<!-- 1 -->
+
+
+
+
+
+
+
+
+
+
