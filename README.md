@@ -5,8 +5,8 @@
 ```json
 {
   "PROFILE": {
-    "fullName": "Jalolov Shukurjon",
-    "nickName": "Leo",
+    "fullName": "Jalolov Shukurjon"
+    "nickName": "Leo"
     "position": [
       "AI Full Stack Developer in MERN Stack",
       "Software Engineer"
