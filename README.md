@@ -9,7 +9,7 @@
     "nickName": "Leo",
     "position": [
       "AI Full Stack Developer in MERN Stack",
-      "Software Engineer"
+      "Software Engineer",
     ],
     "address": "Daegu, South Korea",
     "education": {
