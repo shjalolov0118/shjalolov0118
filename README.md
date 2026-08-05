@@ -14,7 +14,7 @@
     "address": "Daegu, South Korea",
     "education": {
       "university": "Yeungnam University",
-      "major": "Computer Engineering"
+      "major": "Computer Engineering",
     },
   }
 }
