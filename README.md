@@ -6,7 +6,7 @@
 {
   "PROFILE": {
     "fullName": "Jalolov Shukurjon",
-    "nickName": "Leo"
+    "nickName": "Leo",
     "position": [
       "AI Full Stack Developer in MERN Stack",
       "Software Engineer",
