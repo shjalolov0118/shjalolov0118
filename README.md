@@ -29,7 +29,7 @@
 <!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,mongodb,mysql,postgres,prisma,java,spring,python,cpp,html,css,bootstrap,git,github,vscode,postman,figma" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="43" height="43"/> -->
-</p> -->
+<!-- </p> --> -->
 
 <!-- 
 1 ) express    → backend framework             / “beckend nixam qo'shiber” → shunda men express va springni aytganman.
